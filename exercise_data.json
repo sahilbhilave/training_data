@@ -1,331 +1,167 @@
 [
   {
     "exercise_name": "Squats",
-    "category": "Strength",
+    "category": "Lower Body",
     "health_conditions": ["Knee pain"],
     "age_range": [18, 45],
-    "equipment_required": ["Barbell", "Weights"]
-  },
-  {
-    "exercise_name": "Jump Rope",
-    "category": "Cardio",
-    "health_conditions": [],
-    "age_range": [15, 50],
-    "equipment_required": ["Jump rope"]
+    "equipment_required": ["Barbell", "Weights"],
+    "reps": 15,
+    "average_time": 20,
+    "youtube_link": "https://www.youtube.com/watch?v=aclHkVaku9U",
+    "difficulty": "Intermediate"
   },
   {
     "exercise_name": "Lunges",
-    "category": "Strength",
+    "category": "Lower Body",
     "health_conditions": ["Joint pain"],
     "age_range": [20, 50],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Zumba",
-    "category": "Cardio",
-    "health_conditions": ["Back pain"],
-    "age_range": [18, 60],
-    "equipment_required": []
+    "equipment_required": [],
+    "reps": 20,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+    "difficulty": "Beginner"
   },
   {
     "exercise_name": "Deadlifts",
-    "category": "Strength",
+    "category": "Lower Body",
     "health_conditions": ["Lower back pain"],
     "age_range": [25, 45],
-    "equipment_required": ["Barbell", "Weights"]
+    "equipment_required": ["Barbell", "Weights"],
+    "reps": 12,
+    "average_time": 25,
+    "youtube_link": "https://www.youtube.com/watch?v=-4qRntuXBSc",
+    "difficulty": "Advanced"
   },
   {
-    "exercise_name": "Circuit Training",
-    "category": "Cardio",
-    "health_conditions": ["High blood pressure"],
-    "age_range": [20, 55],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Plank",
-    "category": "Strength",
-    "health_conditions": [],
-    "age_range": [18, 60],
-    "equipment_required": []
+    "exercise_name": "Bench Press",
+    "category": "Upper Body",
+    "health_conditions": ["Shoulder pain"],
+    "age_range": [20, 40],
+    "equipment_required": ["Barbell", "Weights", "Bench"],
+    "reps": 12,
+    "average_time": 20,
+    "youtube_link": "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+    "difficulty": "Intermediate"
   },
   {
     "exercise_name": "Boxing",
     "category": "Cardio",
     "health_conditions": ["Wrist pain"],
     "age_range": [20, 50],
-    "equipment_required": ["Boxing gloves", "Punching bag"]
-  },
-  {
-    "exercise_name": "Mountain Climbers",
-    "category": "Cardio",
-    "health_conditions": [],
-    "age_range": [18, 50],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Bench Press",
-    "category": "Strength",
-    "health_conditions": ["Shoulder pain"],
-    "age_range": [20, 40],
-    "equipment_required": ["Barbell", "Weights", "Bench"]
-  },
-  {
-    "exercise_name": "Hiking",
-    "category": "Cardio",
-    "health_conditions": ["Arthritis"],
-    "age_range": [25, 60],
-    "equipment_required": ["Hiking boots"]
+    "equipment_required": ["Boxing gloves", "Punching bag"],
+    "reps": null,
+    "average_time": 40,
+    "youtube_link": "https://www.youtube.com/watch?v=3iO5pfLAAaE",
+    "difficulty": "Intermediate"
   },
   {
     "exercise_name": "TRX Suspension Training",
     "category": "Strength",
     "health_conditions": ["Joint pain"],
     "age_range": [18, 50],
-    "equipment_required": ["TRX straps"]
-  },
-  {
-    "exercise_name": "Rowing",
-    "category": "Cardio",
-    "health_conditions": ["Back pain"],
-    "age_range": [20, 55],
-    "equipment_required": ["Rowing machine"]
+    "equipment_required": ["TRX straps"],
+    "reps": 15,
+    "average_time": 25,
+    "youtube_link": "https://www.youtube.com/watch?v=2MMOBALedCA",
+    "difficulty": "Intermediate"
   },
   {
     "exercise_name": "Kettlebell Swings",
-    "category": "Strength",
+    "category": "Lower Body",
     "health_conditions": [],
     "age_range": [18, 45],
-    "equipment_required": ["Kettlebell"]
+    "equipment_required": ["Kettlebell"],
+    "reps": 20,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=YSxk1DLbsQY",
+    "difficulty": "Beginner"
   },
   {
-    "exercise_name": "Dancing",
-    "category": "Cardio",
-    "health_conditions": [],
-    "age_range": [18, 60],
-    "equipment_required": []
+    "exercise_name": "Bicep Curls",
+    "category": "Upper Body",
+    "health_conditions": ["Elbow pain"],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=VaMjhwFE1Zw",
+    "difficulty": "Beginner"
   },
   {
     "exercise_name": "Resistance Band Exercises",
     "category": "Strength",
     "health_conditions": [],
     "age_range": [18, 55],
-    "equipment_required": ["Resistance bands"]
+    "equipment_required": ["Resistance bands"],
+    "reps": 15,
+    "average_time": 20,
+    "youtube_link": "https://www.youtube.com/watch?v=wopIRZd_8Go",
+    "difficulty": "Beginner"
   },
   {
     "exercise_name": "Calf Raises",
-    "category": "Strength",
+    "category": "Lower Body",
     "health_conditions": ["Ankle pain"],
     "age_range": [20, 50],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Stair Climbing",
-    "category": "Cardio",
-    "health_conditions": [],
-    "age_range": [18, 60],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Bicep Curls",
-    "category": "Strength",
-    "health_conditions": ["Elbow pain"],
-    "age_range": [18, 45],
-    "equipment_required": ["Dumbbells"]
-  },
-  {
-    "exercise_name": "Meditation",
-    "category": "Mindfulness",
-    "health_conditions": [],
-    "age_range": [18, 70],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Kickboxing",
-    "category": "Cardio",
-    "health_conditions": ["Knee pain"],
-    "age_range": [20, 50],
-    "equipment_required": ["Boxing gloves"]
-  },
-  {
-    "exercise_name": "Side Plank",
-    "category": "Strength",
-    "health_conditions": [],
-    "age_range": [18, 60],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Plyometric Exercises",
-    "category": "Cardio",
-    "health_conditions": [],
-    "age_range": [18, 45],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Balance Exercises",
-    "category": "Strength",
-    "health_conditions": ["Dizziness"],
-    "age_range": [18, 70],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Tennis",
-    "category": "Cardio",
-    "health_conditions": ["Joint pain"],
-    "age_range": [25, 60],
-    "equipment_required": ["Tennis racket", "Tennis ball"]
+    "equipment_required": [],
+    "reps": 20,
+    "average_time": 10,
+    "youtube_link": "https://www.youtube.com/watch?v=3a8wXN6tQF4",
+    "difficulty": "Beginner"
   },
   {
     "exercise_name": "Bodyweight Exercises",
     "category": "Strength",
     "health_conditions": [],
     "age_range": [18, 55],
-    "equipment_required": []
+    "equipment_required": [],
+    "reps": 15,
+    "average_time": 20,
+    "youtube_link": "https://www.youtube.com/watch?v=aclHkVaku9U",
+    "difficulty": "Beginner"
   },
   {
     "exercise_name": "Stretches",
     "category": "Flexibility",
     "health_conditions": [],
     "age_range": [18, 70],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Stationary Bike",
-    "category": "Cardio",
-    "health_conditions": ["Knee pain"],
-    "age_range": [20, 60],
-    "equipment_required": ["Stationary bike"]
-  },
-  {
-    "exercise_name": "Gardening",
-    "category": "Low Impact",
-    "health_conditions": [],
-    "age_range": [30, 70],
-    "equipment_required": ["Gardening tools"]
+    "equipment_required": [],
+    "reps": null,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=4BOTvaRaDjI",
+    "difficulty": "Beginner"
   },
   {
     "exercise_name": "Chest Fly",
-    "category": "Strength",
+    "category": "Upper Body",
     "health_conditions": [],
     "age_range": [18, 50],
-    "equipment_required": ["Dumbbells"]
-  },
-  {
-    "exercise_name": "Paddleboarding",
-    "category": "Cardio",
-    "health_conditions": ["Back pain"],
-    "age_range": [25, 60],
-    "equipment_required": ["Paddleboard"]
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=sIRMaM1XGrI",
+    "difficulty": "Intermediate"
   },
   {
     "exercise_name": "Wall Sit",
-    "category": "Strength",
+    "category": "Lower Body",
     "health_conditions": [],
     "age_range": [18, 55],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Tai Chi",
-    "category": "Low Impact",
-    "health_conditions": [],
-    "age_range": [30, 70],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Sprints",
-    "category": "Cardio",
-    "health_conditions": ["Joint pain"],
-    "age_range": [18, 45],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Ballet",
-    "category": "Flexibility",
-    "health_conditions": [],
-    "age_range": [18, 60],
-    "equipment_required": ["Ballet shoes"]
-  },
-  {
-    "exercise_name": "Rock Climbing",
-    "category": "Strength",
-    "health_conditions": ["Fear of heights"],
-    "age_range": [20, 50],
-    "equipment_required": ["Climbing shoes", "Harness"]
-  },
-  {
-    "exercise_name": "Aerobics",
-    "category": "Cardio",
-    "health_conditions": ["Joint pain"],
-    "age_range": [20, 50],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Rowing",
-    "category": "Strength",
-    "health_conditions": ["Back pain"],
-    "age_range": [25, 55],
-    "equipment_required": ["Rowing machine"]
-  },
-  {
-    "exercise_name": "Step Aerobics",
-    "category": "Cardio",
-    "health_conditions": [],
-    "age_range": [18, 50],
-    "equipment_required": ["Step platform"]
-  },
-  {
-    "exercise_name": "Horseback Riding",
-    "category": "Low Impact",
-    "health_conditions": ["Hip pain"],
-    "age_range": [25, 60],
-    "equipment_required": ["Riding helmet"]
-  },
-  {
-    "exercise_name": "Bicep Hammer Curls",
-    "category": "Strength",
-    "health_conditions": [],
-    "age_range": [18, 45],
-    "equipment_required": ["Dumbbells"]
-  },
-  {
-    "exercise_name": "Skiing",
-    "category": "Cardio",
-    "health_conditions": ["Knee pain"],
-    "age_range": [25, 60],
-    "equipment_required": ["Skis", "Poles"]
-  },
-  {
-    "exercise_name": "Sun Salutation",
-    "category": "Flexibility",
-    "health_conditions": [],
-    "age_range": [18, 60],
-    "equipment_required": []
-  },
-  {
-    "exercise_name": "Jumping Jacks",
-    "category": "Cardio",
-    "health_conditions": [],
-    "age_range": [18, 50],
-    "equipment_required": []
+    "equipment_required": [],
+    "reps": 60,
+    "average_time": 5,
+    "youtube_link": "https://www.youtube.com/watch?v=y-wV4Venusw",
+    "difficulty": "Beginner"
   },
   {
     "exercise_name": "Pec Deck Machine",
-    "category": "Strength",
+    "category": "Upper Body",
     "health_conditions": [],
     "age_range": [18, 55],
-    "equipment_required": ["Pec deck machine"]
-  },
-  {
-    "exercise_name": "Frisbee",
-    "category": "Low Impact",
-    "health_conditions": [],
-    "age_range": [18, 60],
-    "equipment_required": ["Frisbee"]
-  },
-  {
-    "exercise_name": "Trampoline Jumping",
-    "category": "Cardio",
-    "health_conditions": ["Joint pain"],
-    "age_range": [18, 50],
-    "equipment_required": ["Trampoline"]
+    "equipment_required": ["Pec deck machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=ykARTe9_5Ow",
+    "difficulty": "Intermediate"
   }
 ]
