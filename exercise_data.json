@@ -43,17 +43,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=gRVjAtPip0Y",
     "difficulty": "Intermediate"
   },
-  {
-    "exercise_name": "Boxing",
-    "category": "Cardio",
-    "health_conditions": ["Wrist pain"],
-    "age_range": [20, 50],
-    "equipment_required": ["Boxing gloves", "Punching bag"],
-    "reps": null,
-    "average_time": 40,
-    "youtube_link": "https://www.youtube.com/watch?v=3iO5pfLAAaE",
-    "difficulty": "Intermediate"
-  },
+  
   {
     "exercise_name": "TRX Suspension Training",
     "category": "Strength",
@@ -120,17 +110,7 @@
     "youtube_link": "https://www.youtube.com/watch?v=aclHkVaku9U",
     "difficulty": "Beginner"
   },
-  {
-    "exercise_name": "Stretches",
-    "category": "Flexibility",
-    "health_conditions": [],
-    "age_range": [18, 70],
-    "equipment_required": [],
-    "reps": null,
-    "average_time": 15,
-    "youtube_link": "https://www.youtube.com/watch?v=4BOTvaRaDjI",
-    "difficulty": "Beginner"
-  },
+  
   {
     "exercise_name": "Chest Fly",
     "category": "Upper Body",
