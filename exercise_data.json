@@ -450,7 +450,117 @@
     "equipment_required": [],
     "reps": 12,
     "average_time": 15,
-    "youtube_link": "https://www.youtube.com/watch?v=LXkCrxn3caQ&ab_channel=PureGym",
+    "youtube_link": "https://www.youtube.com/watch?v=IODxDxX7oi4",
     "difficulty": "Intermediate"
-  }
+  },
+  {
+  "exercise_name": "Jumping Jacks",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 20",
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=UpH7rm0cYbM",
+  "difficulty": "Beginner"
+},
+{
+  "exercise_name": "Bodyweight Squats",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": 15,
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=aclHkVaku9U",
+  "difficulty": "Beginner"
+},
+{
+  "exercise_name": "Arm Circles",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 15",
+  "average_time": 5,
+  "youtube_link": "https://www.youtube.com/watch?v=x4I3BO_XjN4",
+  "difficulty": "Beginner"
+},
+{
+  "exercise_name": "High Knees",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 20",
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=-yjUsa49e1Y",
+  "difficulty": "Intermediate"
+},
+{
+  "exercise_name": "Leg Swings",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 15 each leg",
+  "average_time": 5,
+  "youtube_link": "https://www.youtube.com/watch?v=vrp5IP0HEYs",
+  "difficulty": "Beginner"
+},
+{
+  "exercise_name": "Torso Twists",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 20",
+  "average_time": 5,
+  "youtube_link": "https://www.youtube.com/watch?v=89WU6evB0I0",
+  "difficulty": "Beginner"
+},
+{
+  "exercise_name": "Ankle Rolls",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 10 each foot",
+  "average_time": 5,
+  "youtube_link": "https://www.youtube.com/watch?v=bkD9qZZ5dQ8",
+  "difficulty": "Beginner"
+},
+{
+  "exercise_name": "Dynamic Lunges",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": 12,
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=DEvCaPydiyw",
+  "difficulty": "Intermediate"
+},
+{
+  "exercise_name": "Butt Kicks",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 20",
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=1DvY6vI9pMo",
+  "difficulty": "Intermediate"
+},
+{
+  "exercise_name": "Plank Shoulder Taps",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": "2 sets of 15 on each side",
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=Jz5lz0DxpFk",
+  "difficulty": "Intermediate"
+} 
 ]
