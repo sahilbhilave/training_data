@@ -459,7 +459,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 20",
+  "reps": 20,
   "average_time": 10,
   "youtube_link": "https://www.youtube.com/watch?v=UpH7rm0cYbM",
   "difficulty": "Beginner"
@@ -481,7 +481,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 15",
+  "reps": 15,
   "average_time": 5,
   "youtube_link": "https://www.youtube.com/watch?v=x4I3BO_XjN4",
   "difficulty": "Beginner"
@@ -492,7 +492,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 20",
+  "reps": 20,
   "average_time": 10,
   "youtube_link": "https://www.youtube.com/watch?v=-yjUsa49e1Y",
   "difficulty": "Intermediate"
@@ -503,7 +503,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 15 each leg",
+  "reps": 15,
   "average_time": 5,
   "youtube_link": "https://www.youtube.com/watch?v=vrp5IP0HEYs",
   "difficulty": "Beginner"
@@ -514,7 +514,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 20",
+  "reps": 20,
   "average_time": 5,
   "youtube_link": "https://www.youtube.com/watch?v=89WU6evB0I0",
   "difficulty": "Beginner"
@@ -525,7 +525,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 10 each foot",
+  "reps": 10,
   "average_time": 5,
   "youtube_link": "https://www.youtube.com/watch?v=bkD9qZZ5dQ8",
   "difficulty": "Beginner"
@@ -547,7 +547,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 20",
+  "reps": 20,
   "average_time": 10,
   "youtube_link": "https://www.youtube.com/watch?v=1DvY6vI9pMo",
   "difficulty": "Intermediate"
@@ -558,7 +558,7 @@
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
-  "reps": "2 sets of 15 on each side",
+  "reps": 15,
   "average_time": 10,
   "youtube_link": "https://www.youtube.com/watch?v=Jz5lz0DxpFk",
   "difficulty": "Intermediate"
