@@ -562,5 +562,49 @@
   "average_time": 10,
   "youtube_link": "https://www.youtube.com/watch?v=Jz5lz0DxpFk",
   "difficulty": "Intermediate"
-} 
+},
+  {
+  "exercise_name": "Butt Kicks",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": 20,
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=1DvY6vI9pMo",
+  "difficulty": "Intermediate"
+},
+{
+  "exercise_name": "Plank Shoulder Taps",
+  "category": "Warm-up",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": 15,
+  "average_time": 10,
+  "youtube_link": "https://www.youtube.com/watch?v=Jz5lz0DxpFk",
+  "difficulty": "Intermediate"
+},
+{
+  "exercise_name": "Standing Quadriceps Stretch",
+  "category": "Stretching",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": 30,
+  "average_time": 5,
+  "youtube_link": "https://www.youtube.com/watch?v=4g6_vPaYAJI",
+  "difficulty": "Beginner"
+},
+{
+  "exercise_name": "Triceps Stretch",
+  "category": "Stretching",
+  "health_conditions": [],
+  "age_range": [18, 55],
+  "equipment_required": [],
+  "reps": 30,
+  "average_time": 5,
+  "youtube_link": "https://www.youtube.com/watch?v=4pK2P89RydI",
+  "difficulty": "Beginner"
+}
 ]
