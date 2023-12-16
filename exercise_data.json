@@ -100,18 +100,6 @@
     "difficulty": "Beginner"
   },
   {
-    "exercise_name": "Bodyweight Exercises",
-    "category": "Strength",
-    "health_conditions": [],
-    "age_range": [18, 55],
-    "equipment_required": [],
-    "reps": 15,
-    "average_time": 20,
-    "youtube_link": "https://www.youtube.com/watch?v=aclHkVaku9U",
-    "difficulty": "Beginner"
-  },
-  
-  {
     "exercise_name": "Chest Fly",
     "category": "Upper Body",
     "health_conditions": [],
