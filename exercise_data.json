@@ -441,5 +441,16 @@
     "average_time": 15,
     "youtube_link": "https://www.youtube.com/watch?v=LXkCrxn3caQ&ab_channel=PureGym",
     "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Pushups",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": [],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=LXkCrxn3caQ&ab_channel=PureGym",
+    "difficulty": "Intermediate"
   }
 ]
