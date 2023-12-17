@@ -594,5 +594,203 @@
   "average_time": 5,
   "youtube_link": "https://www.youtube.com/watch?v=4pK2P89RydI",
   "difficulty": "Beginner"
+},
+{
+  "exercise_name": "Crunches",
+  "category": "Core",
+  "health_conditions": [],
+  "age_range": [18, 45],
+  "equipment_required": [],
+  "reps": 15,
+  "average_time": 20,
+  "youtube_link": "https://www.youtube.com/watch?v=5ER5Of4MOPI",
+  "difficulty": "Beginner"
+},
+{
+    "exercise_name": "Hyperextension",
+    "category": "Stretching",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": [],
+    "reps": 3,
+    "average_time": 10,
+    "youtube_link": "https://www.youtube.com/watch?v=O8d8I7-qtGg",
+    "difficulty": "Intermediate"
+},
+{
+    "exercise_name": "Pull ups",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Pull up Bar"],
+    "reps": 15,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=jFmCrA6fo78",
+    "difficulty": "Beginner"
+},
+{
+    "exercise_name": "Seated Rows",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Seated Row Machine"],
+    "reps": 15,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=TeFo51Q_Nsc",
+    "difficulty": "Beginner"
+},
+{
+    "exercise_name": "Dumbell Shrugs",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbells"],
+    "reps": 12,
+    "average_time": 10,
+    "youtube_link": "https://www.youtube.com/watch?v=cJRVVxmytaM",
+    "difficulty": "Beginner"
+},
+{
+    "exercise_name": "Incline Dumbbell ",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbells, Incline Bench"],
+    "reps": 12,
+    "average_time": 12,
+    "youtube_link": "https://www.youtube.com/watch?v=HhHHBj3qTJ4",
+    "difficulty": "Intermidiate"
+},
+{
+    "exercise_name": "Pitcher Curl",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbells, Incline Bench"],
+    "reps": 12,
+    "average_time": 12,
+    "youtube_link": "https://www.youtube.com/watch?v=fIWP-FRFNU0",
+    "difficulty": "Intermidiate"
+},
+{
+    "exercise_name": "Elliptical",
+    "category": "Core",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Elliptical Machine"],
+    "reps": 1,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=j38LNpTLwzY",
+    "difficulty": "Beginner"
+},  
+{
+    "exercise_name": "Shoulder Press",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 10,
+    "youtube_link": "https://www.youtube.com/watch?v=qEwKCR5JCog",
+    "difficulty": "Beginner"
+},
+{
+    "exercise_name": "Lateral Raises",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 10,
+    "youtube_link": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+    "difficulty": "Intermediate"
+},
+{
+    "exercise_name": "Leg Extension",
+    "category": "Lower Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Leg Extension Machine"],
+    "reps": 15,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=4ZDm5EbiFI8",
+    "difficulty": "Beginner"
+},
+{
+    "exercise_name": "SUMO Squats",
+    "category": "Lower Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbell"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=QqvTW0pzLFw",
+    "difficulty": "Advance"
+},
+{
+    "exercise_name": "Diamond Pushups",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": [""],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=pD3mD6WgykM",
+    "difficulty": "Advance"
+},
+{
+    "exercise_name": "Reverse Fly",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 12,
+    "youtube_link": "https://www.youtube.com/watch?v=JoCRRZ3zRtI",
+    "difficulty": "Intermediate"
+},
+{
+    "exercise_name": "Back Extension",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 12,
+    "youtube_link": "https://www.youtube.com/watch?v=ph3pddpKzzw",
+    "difficulty": "Advanced"
+},
+{
+    "exercise_name": "Spider curl",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells, Incline Bench"],
+    "reps": 12,
+    "average_time": 12,
+    "youtube_link": "https://www.youtube.com/watch?v=kPKvWfxWb50",
+    "difficulty": "Intermediate"
+},
+{
+    "exercise_name": "Upright row",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 12,
+    "youtube_link": "https://www.youtube.com/watch?v=jaAV-rD45I0",
+    "difficulty": "Intermediate"
+},
+{
+    "exercise_name": "Arnold Press",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 45],
+    "equipment_required": ["Dumbbells"],
+    "reps": 12,
+    "average_time": 12,
+    "youtube_link": "https://www.youtube.com/watch?v=3ml7BH7mNwQ",
+    "difficulty": "Advanced"
 }
 ]
