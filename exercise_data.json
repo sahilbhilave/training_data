@@ -7,7 +7,7 @@
     "equipment_required": ["Barbell", "Weights"],
     "reps": 15,
     "average_time": 20,
-    "youtube_link": "https://www.youtube.com/watch?v=aclHkVaku9U",
+    "youtube_link": "https://www.youtube.com/watch?v=IB_icWRzi4E&ab_channel=InsiderTech",
     "difficulty": "Intermediate"
   },
   {
@@ -18,7 +18,7 @@
     "equipment_required": [],
     "reps": 20,
     "average_time": 15,
-    "youtube_link": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+    "youtube_link": "https://www.youtube.com/watch?v=MxfTNXSFiYI&ab_channel=MedStarHealth",
     "difficulty": "Beginner"
   },
   {
@@ -29,7 +29,7 @@
     "equipment_required": ["Barbell", "Weights"],
     "reps": 12,
     "average_time": 25,
-    "youtube_link": "https://www.youtube.com/watch?v=-4qRntuXBSc",
+    "youtube_link": "https://www.youtube.com/watch?v=1ZXobu7JvvE&ab_channel=CrossFit",
     "difficulty": "Advanced"
   },
   {
@@ -40,7 +40,7 @@
     "equipment_required": ["Barbell", "Weights", "Bench"],
     "reps": 12,
     "average_time": 20,
-    "youtube_link": "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+    "youtube_link": "https://www.youtube.com/watch?v=rT7DgCr-3pg&ab_channel=ScottHermanFitness",
     "difficulty": "Intermediate"
   },
   
@@ -52,7 +52,7 @@
     "equipment_required": ["TRX straps"],
     "reps": 15,
     "average_time": 25,
-    "youtube_link": "https://www.youtube.com/watch?v=2MMOBALedCA",
+    "youtube_link": "https://www.youtube.com/watch?v=jUJiXW2HGz0&ab_channel=TRXtraining",
     "difficulty": "Intermediate"
   },
   {
@@ -63,7 +63,7 @@
     "equipment_required": ["Kettlebell"],
     "reps": 20,
     "average_time": 15,
-    "youtube_link": "https://www.youtube.com/watch?v=YSxk1DLbsQY",
+    "youtube_link": "https://www.youtube.com/watch?v=1cVT3ee9mgU&ab_channel=StrongFirst",
     "difficulty": "Beginner"
   },
   {
@@ -74,7 +74,7 @@
     "equipment_required": ["Dumbbells"],
     "reps": 12,
     "average_time": 15,
-    "youtube_link": "https://www.youtube.com/watch?v=VaMjhwFE1Zw",
+    "youtube_link": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo&ab_channel=Howcast",
     "difficulty": "Beginner"
   },
   {
@@ -85,7 +85,7 @@
     "equipment_required": ["Resistance bands"],
     "reps": 15,
     "average_time": 20,
-    "youtube_link": "https://www.youtube.com/watch?v=wopIRZd_8Go",
+    "youtube_link": "https://www.youtube.com/watch?v=xVOfvb7UX_Y&ab_channel=SharpHealthCare",
     "difficulty": "Beginner"
   },
   {
@@ -96,7 +96,7 @@
     "equipment_required": [],
     "reps": 20,
     "average_time": 10,
-    "youtube_link": "https://www.youtube.com/watch?v=3a8wXN6tQF4",
+    "youtube_link": "https://www.youtube.com/watch?v=d2GgSoHvIXo&ab_channel=Tangelo-SeattleChiropractor%2BRehab",
     "difficulty": "Beginner"
   },
   {
@@ -107,7 +107,7 @@
     "equipment_required": ["Dumbbells"],
     "reps": 12,
     "average_time": 15,
-    "youtube_link": "https://www.youtube.com/watch?v=sIRMaM1XGrI",
+    "youtube_link": "https://www.youtube.com/watch?v=eGjt4lk6g34&ab_channel=PureGym",
     "difficulty": "Intermediate"
   },
   {
@@ -118,7 +118,7 @@
     "equipment_required": [],
     "reps": 60,
     "average_time": 5,
-    "youtube_link": "https://www.youtube.com/watch?v=y-wV4Venusw",
+    "youtube_link": "https://www.youtube.com/watch?v=6Li55TURhVg&ab_channel=PureGym",
     "difficulty": "Beginner"
   },
   {
@@ -129,7 +129,7 @@
     "equipment_required": ["Pec deck machine"],
     "reps": 12,
     "average_time": 15,
-    "youtube_link": "https://www.youtube.com/watch?v=ykARTe9_5Ow",
+    "youtube_link": "https://www.youtube.com/watch?v=O-OBCfyh9Fw&ab_channel=RenaissancePeriodization",
     "difficulty": "Intermediate"
   },
   {
@@ -413,7 +413,7 @@
     "category": "Lower Body",
     "health_conditions": [],
     "age_range": [18, 55],
-    "equipment_required": ["Dumbbell"],
+    "equipment_required": ["Dumbbells"],
     "reps": 12,
     "average_time": 15,
     "youtube_link": "https://www.youtube.com/watch?v=GoKjrvJi-Iw&ab_channel=TestosteroneNation",
