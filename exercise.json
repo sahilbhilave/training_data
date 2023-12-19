@@ -1,0 +1,154 @@
+{
+"food_items": [
+    {
+    "item": "1 slice of bread",
+    "calories": "70 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1 medium chapatti ",
+    "calories": "60 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1 small parantha",
+    "calories": "120 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1/4 cup cooked rice ",
+    "calories": "50 cal",
+    "group": "Cereals",
+    "quantity": 60
+    },
+    {
+    "item": "2 small idlis ",
+    "calories": "60 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "4 biscuits ",
+    "calories": "160 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1/4 cup cooked upma ",
+    "calories": "90 cal",
+    "group": "Cereals",
+    "quantity": 60
+    },
+    {
+    "item": "1/4 cup cooked poha ",
+    "calories": "75 cal",
+    "group": "Cereals",
+    "quantity": 60
+    },
+    {
+    "item": "1/4 cup of cooked dal",
+    "calories": "80 cal",
+    "group": "Pulses",
+    "quantity": 90
+    },
+    {
+    "item": "1 besan cheela ",
+    "calories": "120 cal",
+    "group": "Pulses",
+    "quantity":30
+    },
+    {
+    "item": "2 small besan ladoos ",
+    "calories": "120 cal",
+    "group": "Pulses",
+    "quantity": 30
+    },
+    {
+    "item": "1 glass of plain milk ",
+    "calories": "150 cal",
+    "group": "Milk and milk products",
+    "quantity": 250
+    },
+    {
+    "item": "2 glasses of buttermilk ",
+    "calories": "100 cal",
+    "group": "Milk and milk products",
+    "quantity": 500
+    },
+    {
+    "item": "1 cup of curd ",
+    "calories": "120 cal",
+    "group": "Milk and milk products",
+    "quantity": 150
+    },
+    {
+    "item": "4 big slices of paneer ",
+    "calories": "160 cal",
+    "group": "Milk and milk products",
+    "quantity":40
+    },
+    {
+    "item": "Mango/guava/pear/orange ",
+    "calories": "60 cal",
+    "group": "Fruits ",
+    "quantity":100
+    },
+    {
+    "item": "Banana",
+    "calories": "50 cal",
+    "group": "Fruits ",
+    "quantity":50
+    },
+    {
+    "item": "Green leafy vegetables (spinach, bathua, amaranth, mustard)",
+    "calories": "10 cal",
+    "group": "Vegetables",
+    "quantity":50
+    },
+    {
+    "item": "Other vegetables (cauliflower, bhindi, peas, brinjal, etc.)",
+    "calories": "40 cal",
+    "group": "Vegetables",
+    "quantity":100
+    },
+    {
+    "item": "Roots and tubers (potato, carrot, radish",
+    "calories": "70 cal",
+    "group": "Vegetables",
+    "quantity": 100
+    },
+    {
+    "item": "Butter - 1 tsp butter ",
+    "calories": "35 cal kcal",
+    "group":"Fats and oil",
+    "quantity":5
+    },
+    {
+    "item": "Ghee - 1 tsp",
+    "calories": "45 cal",
+    "group": "Fats and oil",
+    "quantity":5
+    },
+    {
+    "item": "Sugar - 1 tsp",
+    "calories": "20 cal",
+    "group": "Sugar",
+    "quantity":5
+    },
+    {
+    "item": "Jaggery - 1 tsp ",
+    "calories": "20 cal",
+    "group": "Sugar",
+    "quantity":5
+    },
+    {
+    "item": "Honey - 1 tsp ",
+    "calories": "15 cal",
+    "group": "Sugar",
+    "quantity":5
+    }
+]
+}
