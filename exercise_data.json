@@ -46,7 +46,7 @@
   
   {
     "exercise_name": "TRX Suspension Training",
-    "category": "Strength",
+    "category": "Core",
     "health_conditions": ["Joint pain"],
     "age_range": [18, 50],
     "equipment_required": ["TRX straps"],
@@ -79,7 +79,7 @@
   },
   {
     "exercise_name": "Resistance Band Exercises",
-    "category": "Strength",
+    "category": "Core",
     "health_conditions": [],
     "age_range": [18, 55],
     "equipment_required": ["Resistance bands"],
@@ -443,7 +443,7 @@
   },
   {
   "exercise_name": "Jumping Jacks",
-  "category": "Warm-up",
+  "category": "Core",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -454,7 +454,7 @@
 },
 {
   "exercise_name": "Bodyweight Squats",
-  "category": "Warm-up",
+  "category": "Lower Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -465,7 +465,7 @@
 },
 {
   "exercise_name": "Arm Circles",
-  "category": "Warm-up",
+  "category": "Upper Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -476,7 +476,7 @@
 },
 {
   "exercise_name": "High Knees",
-  "category": "Warm-up",
+  "category": "Lower Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -487,7 +487,7 @@
 },
 {
   "exercise_name": "Leg Swings",
-  "category": "Warm-up",
+  "category": "Lower Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -498,7 +498,7 @@
 },
 {
   "exercise_name": "Torso Twists",
-  "category": "Warm-up",
+  "category": "Core",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -509,7 +509,7 @@
 },
 {
   "exercise_name": "Ankle Rolls",
-  "category": "Warm-up",
+  "category": "Lower Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -520,7 +520,7 @@
 },
 {
   "exercise_name": "Dynamic Lunges",
-  "category": "Warm-up",
+  "category": "Lower Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -531,7 +531,7 @@
 },
 {
   "exercise_name": "Butt Kicks",
-  "category": "Warm-up",
+  "category": "Lower Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -542,29 +542,7 @@
 },
 {
   "exercise_name": "Plank Shoulder Taps",
-  "category": "Warm-up",
-  "health_conditions": [],
-  "age_range": [18, 55],
-  "equipment_required": [],
-  "reps": 15,
-  "average_time": 10,
-  "youtube_link": "https://www.youtube.com/watch?v=Jz5lz0DxpFk",
-  "difficulty": "Intermediate"
-},
-  {
-  "exercise_name": "Butt Kicks",
-  "category": "Warm-up",
-  "health_conditions": [],
-  "age_range": [18, 55],
-  "equipment_required": [],
-  "reps": 20,
-  "average_time": 10,
-  "youtube_link": "https://www.youtube.com/watch?v=1DvY6vI9pMo",
-  "difficulty": "Intermediate"
-},
-{
-  "exercise_name": "Plank Shoulder Taps",
-  "category": "Warm-up",
+  "category": "Upper Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -575,7 +553,7 @@
 },
 {
   "exercise_name": "Standing Quadriceps Stretch",
-  "category": "Stretching",
+  "category": "Lower Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
@@ -586,7 +564,7 @@
 },
 {
   "exercise_name": "Triceps Stretch",
-  "category": "Stretching",
+  "category": "Upper Body",
   "health_conditions": [],
   "age_range": [18, 55],
   "equipment_required": [],
